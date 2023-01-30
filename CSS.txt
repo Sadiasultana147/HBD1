@@ -15,6 +15,7 @@
     animation: textAnimate 2s infinite alternate;
    
     
+
   }
   
   @keyframes textAnimate {
